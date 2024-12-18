@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.hero-info h1{
+    font-size: 3rem;
+    color: black;
+    padding: 20px;
+}
+
+.hero-info img{
+    width: 100%;
+}
